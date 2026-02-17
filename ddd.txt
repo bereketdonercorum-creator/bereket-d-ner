@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bereker Döner | Çorum</title>
+<style>
+body { font-family: Arial, sans-serif; background:#f4f4f4; margin:0; padding:0; }
+header { background:#8B0000; color:#fff; text-align:center; padding:80px 20px; }
+h1 { margin:0; font-size:50px; }
+nav { background:#660000; padding:15px; text-align:center; }
+nav a { color:#fff; margin:0 15px; text-decoration:none; font-weight:bold; }
+section { padding:40px 20px; text-align:center; }
+.menu-item { background:#fff; margin:20px auto; padding:15px; max-width:500px; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1); }
+footer { background:#111; color:#fff; text-align:center; padding:20px; }
+.button { background:#e63946; color:#fff; padding:12px 25px; border-radius:5px; text-decoration:none; font-weight:bold; }
+</style>
+</head>
+<body>
+<header>
+<h1>Bereker Döner</h1>
+<p>Çorum'da Lezzetin Adresi</p>
+<a href="tel:03646661256" class="button">Hemen Ara</a>
+</header>
+<nav>
+<a href="#hakkimizda">Hakkımızda</a>
+<a href="#menu">Menü</a>
+<a href="#iletisim">İletişim</a>
+</nav>
+<section id="hakkimizda">
+<h2>Hakkımızda</h2>
+<p>Bereker Döner olarak Çorum'da taze, kaliteli ve lezzetli döner sunuyoruz. Günlük hazırlanan ürünlerimizle müşteri memnuniyetini ön planda tutuyoruz.</p>
+</section>
+<section id="menu">
+<h2>Menü</h2>
+<div class="menu-item">
+<h3>Ekmek Arası Döner</h3><p>Fiyat için arayınız</p>
+</div>
+<div class="menu-item">
+<h3>Porsiyon Döner</h3><p>Fiyat için arayınız</p>
+</div>
+<div class="menu-item">
+<h3>İskender</h3><p>Fiyat için arayınız</p>
+</div>
+</section>
+<section id="iletisim">
+<h2>İletişim</h2>
+<p>📍 Çorum</p>
+<p>📞 0364 666 12 56</p>
+</section>
+<footer>
+<p>© 2026 Bereker Döner - Tüm Hakları Saklıdır</p>
+</footer>
+</body>
+</html>
