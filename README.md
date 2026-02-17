@@ -1,0 +1,1 @@
+# Bereket Döner Çorum Bu depo, Bereket Döner Çorum işletmesi için oluşturulmuştur. ## Amaç İşletmeye ait dijital içeriklerin, web sitesi ve/veya yazılım çalışmalarının tek bir yerde toplanması amaçlanmaktadır. ## İçerik - Metin dosyaları - Geliştirme dosyaları - İleride eklenecek web veya uygulama içerikleri ## Durum Proje geliştirme aşamasındadır.
